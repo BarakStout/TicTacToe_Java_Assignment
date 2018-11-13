@@ -1,3 +1,6 @@
+// TicTacToe main project file, to be filled in by students.
+//  Written by Miller Hollinger.
+
 public class TicTacToe_Blank implements TicTacToe
 {
 	private String[] board = new String[9];
